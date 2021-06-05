@@ -41,7 +41,7 @@ funkcionalitu a ovlivnění vzhledu pomocí JavaScriptu.**
 ### Odchytávání kláves stisknutých na klávesnici
 
 V minulých hodinách jsme několikrát používali na objektech představujících reference na HTML elementy metodu `addEventListener`. Jde o metodu, která nám zajistí
-vykonání funkce, kterou jí předáme jako druhý argument, v momentě kdy dojde k události, jejíž název jí předáme jako první argument.
+vykonání funkce, kterou jí předáme jako druhý argument, v momentě kdy dojde na objektu k události, jejíž název jí předáme jako první argument.
 
 Následující kód mi zajistí, že pokaždé, když v rámci aktuálně vykresleného dokumentu dojde k události `keydown`
 (tzn. dojde k "zamáčknutí" některé klávesy na klávesnici), dojde k vypsání znaku přiřazeného k dané klávese. Obdobně bych mohl odchytávat třeba událost `keyup`,
