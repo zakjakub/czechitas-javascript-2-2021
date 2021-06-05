@@ -123,6 +123,6 @@ Existuje opět několik způsobů, minimálně některé z nich jsme zmínili (n
 
 Můžu mít element s dialogovým oknem neustále součástí stránky a zobrazovat/skrývat jej pomocí změny CSS atributů.
 
-Můžu element dynamicky do stránky (resp. do jejích DOM) přidávat a následně jej opět odebírat (tzn. když nemá být vidět, vůbec v DOM neexistuje).
+Můžu element dynamicky do stránky (resp. do jejího DOM) přidávat a následně jej opět odebírat (tzn. když nemá být vidět, vůbec v DOM neexistuje).
 
 
